@@ -1,4 +1,4 @@
-The Biomarkers Analysis LAB (Polish name: Laboratorium Analizy Biomarkerów) was established by the decision of the Dean of the Faculty of Computer Science, Electronics, and Telecommunications AGH in 2019. It is located in the C1 building, 3rd floor, rooms 317-319 and is a part of the Zintergrowane Laboratorium Nanostruktur Sensorowych (eng. Integrated Laboratory of Nanosensors Structures) of the Institute of Electronics AGH.
+##The Biomarkers Analysis LAB (Polish name: Laboratorium Analizy Biomarkerów) was established by the decision of the Dean of the Faculty of Computer Science, Electronics, and Telecommunications AGH in 2019. It is located in the C1 building, 3rd floor, rooms 317-319 and is a part of the Zintergrowane Laboratorium Nanostruktur Sensorowych (eng. Integrated Laboratory of Nanosensors Structures) of the Institute of Electronics AGH.
 
 The main aim of the LAB is to conduct research focused on the analysis of biomarkers in a wide range of applications, including environmental, industrial, and medical with special emphasis on exhaled breath analysis. 
 
