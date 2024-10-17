@@ -1,4 +1,5 @@
-##The Biomarkers Analysis LAB (Polish name: Laboratorium Analizy Biomarkerów) was established by the decision of the Dean of the Faculty of Computer Science, Electronics, and Telecommunications AGH in 2019. It is located in the C1 building, 3rd floor, rooms 317-319 and is a part of the Zintergrowane Laboratorium Nanostruktur Sensorowych (eng. Integrated Laboratory of Nanosensors Structures) of the Institute of Electronics AGH.
+![alt text](https://www.google.com/search?sca_esv=b11b22a906989fea&rlz=1C1EKKP_enPL771PL771&sxsrf=ADLYWIJKtKXJteXQNGwOC1K1IXr4xXdqbQ:1729193698963&q=biomarkers+analysis+lab&udm=2&fbs=AEQNm0Dvr3xYvXRaGaB8liPABJYdGovAUMem85jmaNP43N9LWkpJzPExVfN1dM6Qi4rL-ZCUpN5qLHKOqAlKUxwZpsmlvewUpoYbvQpYCFrWivc611LchJIh0ZeJa5wXNzlwSM2hYOA0NqsUhiVCjo5JlWYo9Rp_7t2H09m2bd5-FGq3M8csQGdATj8HbOghcJwJLhN4eNzV&sa=X&ved=2ahUKEwiVubLBlJaJAxWaFBAIHbNhATMQtKgLegQIFxAB&biw=2133&bih=1058&dpr=0.9#vhid=ulbO1fxQZPbtJM&vssid=mosaic)
+The Biomarkers Analysis LAB (Polish name: Laboratorium Analizy Biomarkerów) was established by the decision of the Dean of the Faculty of Computer Science, Electronics, and Telecommunications AGH in 2019. It is located in the C1 building, 3rd floor, rooms 317-319 and is a part of the Zintergrowane Laboratorium Nanostruktur Sensorowych (eng. Integrated Laboratory of Nanosensors Structures) of the Institute of Electronics AGH.
 
 The main aim of the LAB is to conduct research focused on the analysis of biomarkers in a wide range of applications, including environmental, industrial, and medical with special emphasis on exhaled breath analysis. 
 
@@ -7,7 +8,8 @@ The main aim of the LAB is to conduct research focused on the analysis of biomar
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...![cropped-LOgo_jpg](https://github.com/user-attachments/assets/dd6c3318-7dec-4220-af27-0ae5ad94379d)
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
